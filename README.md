@@ -1,3 +1,4 @@
+```
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -71,4 +72,4 @@ plt.imshow(image_rgb)
 plt.title("Object Detection with MobileNet-SSD")
 plt.axis("off")
 plt.show()
-
+```
